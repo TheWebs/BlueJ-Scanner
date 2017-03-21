@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  DetetaDirecoes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\DetetaDirecoes\Debug\DetetaDirecoes.exe
+  DetetaDirecoes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\DetetaDirecoes\Debug\DetetaDirecoes.pdb (Partial PDB)
